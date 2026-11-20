@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "GoldeN",
+      "petType": ["Cães"],
+      "category": "Ração",
+      "title": "Ração Golden Formula Cães Adultos Frango e Arroz 3kg",
+      "description": "Alimento Premium Especial completo para cães adultos, que auxilia na saúde oral, promove pele nutrida, pelagem sedosa e reduz o odor das fezes.",
+      "price": 59.99,
+      "cover": "https://images.petz.com.br/fotos/1658430199921.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "GoldeN",
+      "petType": ["Cães"],
+      "category": "Ração",
+      "title": "Ração Seca Golden Fórmula Cães Adultos Carne e Arroz 3kg",
+      "description": "Alimento completo e balanceado para cães adultos de médio e grande porte, com proteínas de alta digestibilidade e redução do odor das fezes.",
+      "price": 59.99,
+      "cover": "https://images.petz.com.br/fotos/1658429012839.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "GoldeN",
+      "petType": ["Cães"],
+      "category": "Ração",
+      "title": "Ração Golden Fórmula Cães Adultos Porte Pequeno Peru e Arroz 10,1kg",
+      "description": "Indicada para cães adultos de raças pequenas, formulada com proteínas de alta qualidade e fibras naturais que auxiliam na saúde intestinal.",
+      "price": 149.99,
+      "cover": "https://images.petz.com.br/fotos/1658430025206.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "PremieR",
+      "petType": ["Gatos"],
+      "category": "Ração",
+      "title": "Ração Premier Gatos Castrados de 6 Meses a 6 Anos Sabor Frango 7,5kg",
+      "description": "Alimento Super Premium desenvolvido para atender às necessidades nutricionais de gatos castrados, auxiliando no controle de peso e saúde do trato urinário.",
+      "price": 197.99,
+      "cover": "https://images.petz.com.br/fotos/20001320000475_1757535990436.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "PremieR",
+      "petType": ["Gatos"],
+      "category": "Ração",
+      "title": "Ração Premier Seleção Natural Gatos Castrados Sabor Frango 1,5kg",
+      "description": "Feita com proteínas Korin e complexo de vegetais, promove trato urinário saudável e controle do ganho de peso em gatos castrados.",
+      "price": 89.99,
+      "cover": "https://images.petz.com.br/fotos/20001320000424_1757535585716.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Pipicat",
+      "petType": ["Gatos"],
+      "category": "Higiene",
+      "title": "Areia Higiênica Pipicat Multicat 12kg",
+      "description": "Areia higiênica com grãos finos de alta absorção que forma torrões firmes, retém líquidos e ajuda a eliminar odores na bandeja sanitária.",
+      "price": 38.99,
+      "cover": "https://images.petz.com.br/fotos/1713268716370.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Pet Star",
+      "petType": ["Gatos"],
+      "category": "Brinquedos",
+      "title": "Arranhador Pet Star para Gatos Algodão",
+      "description": "Arranhador resistente desenvolvido para aliviar o estresse, estimular o instinto natural de arranhar e proteger os móveis da casa.",
+      "price": 139.90,
+      "cover": "https://images.petz.com.br/fotos/1523653668920.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Bonito pra Cachorro",
+      "petType": ["Cães", "Gatos"],
+      "category": "Camas",
+      "title": "Cama Bonito pra Cachorro Toca Courino Marinho para Cães e Gatos - P",
+      "description": "Cama versátil em courino 100% poliéster que pode ser usada aberta ou fechada como toca, com almofada lavável.",
+      "price": 255.99,
+      "cover": "https://images.petz.com.br/fotos/10037090003751_1751919819748.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Pet Games",
+      "petType": ["Cães"],
+      "category": "Comedouros",
+      "title": "Comedouro e Bebedouro Alto Pet Games Verde Água para Cães - P",
+      "description": "Comedouro e bebedouro ergonômico elevado que facilita a postura durante a alimentação e hidratação de cães.",
+      "price": 39.99,
+      "cover": "https://images.petz.com.br/fotos/1665754312655.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Alvorada",
+      "petType": ["Cães", "Gatos"],
+      "category": "Comedouros",
+      "title": "Comedouro e Bebedouro Alvorada Pesado e Gelado Anti Formigas Vermelho - M",
+      "description": "Desenvolvido em plástico resistente atóxico com borda anti-formiga e compartimento inferior para água gelada ou areia.",
+      "price": 16.99,
+      "cover": "https://images.petz.com.br/fotos/1640274583423.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "NexGard",
+      "petType": ["Cães"],
+      "category": "Saúde",
+      "title": "Antipulgas e Carrapatos NexGard para Cães de 25,1 a 50kg - 1 Tablete",
+      "description": "Tablete mastigável sabor carne de ação rápida que protege cães contra pulgas e carrapatos por 30 dias.",
+      "price": 99.44,
+      "cover": "https://images.petz.com.br/fotos/10007420000192_1740431425822.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Kong",
+      "petType": ["Cães"],
+      "category": "Brinquedos",
+      "title": "Brinquedo Kong para Cães Flyer Vermelho",
+      "description": "Disco de borracha natural macia e durável desenvolvido para brincadeiras de buscar ao ar livre sem machucar os dentes ou gengivas do cão.",
+      "price": 119.90,
+      "cover": "https://images.petz.com.br/fotos/1605793325079.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Fuzz",
+      "petType": ["Gatos"],
+      "category": "Higiene",
+      "title": "Caixa de Areia Fuzz Jumbox Bege para Gatos",
+      "description": "Sanitário fechado com entrada frontal, grelha superior para reter areia das patas e bandeja gaveta para limpeza rápida.",
+      "price": 169.99,
+      "cover": "https://images.petz.com.br/fotos/20031182000422_1764002360484.jpg"
+    }
+  ]
+}
